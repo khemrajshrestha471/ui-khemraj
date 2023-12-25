@@ -1,11 +1,15 @@
 {
   "name": "ui-khemraj",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is test for UI library",
   "main": "dist/cjs/index.js",
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khemrajshrestha471/ui-khemraj.git"
+  },
   "types": "dist/index.d.ts",
   "scripts": {
     "rollup": "rollup -c --bundleConfigAsCjs"

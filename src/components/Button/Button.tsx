@@ -6,9 +6,11 @@ interface Props{
 
 const Button:FC<Props> = ({children}) => {
   return (
-    <button style={{
-      padding: '1em'
-    }}>{children}</button>
+<button style={{
+  padding: '5rem 10rem',
+  background: 'red',
+  color: 'white'
+}}>{children}</button>
   )
 }
 
