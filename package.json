@@ -1,6 +1,6 @@
 {
   "name": "ui-khemraj",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is test for UI library",
   "main": "dist/cjs/index.js",
   "files": [
